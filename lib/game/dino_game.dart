@@ -1,5 +1,6 @@
 import 'dart:math';
 import 'package:flame/game.dart';
+import 'package:flame/camera.dart';
 import 'constants.dart';
 import 'dino.dart';
 import 'obstacle.dart';
